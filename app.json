@@ -1,0 +1,17 @@
+{
+  "name": "aqua-pura-app",
+  "displayName": "aqua-pura-app",
+  "expo": {
+    "name": "aqua-pura-app",
+    "slug": "aqua-pura-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
